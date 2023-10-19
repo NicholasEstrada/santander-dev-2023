@@ -9,7 +9,7 @@ RESTful API  construída em Java 17 com Spring Boot 3.
 -OpenAPI (Swagger): Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
 -Railway: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
 
-```
+```mermaid
 classDiagram
   class User {
     -String name
