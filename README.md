@@ -2,6 +2,9 @@
 
 RESTful API  construída em Java 17 com Spring Boot 3.
 
+### É possível testar a aplicação no link do swagger abaixo
+Foi reslizado deploy na Railway no [endereço](https://sdw-nicholas-2023.up.railway.app/swagger-ui/index.html#/)
+
 ## Principais Tecnologias
 -Java 17: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
 -Spring Boot 3: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
