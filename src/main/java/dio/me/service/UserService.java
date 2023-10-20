@@ -1,2 +1,7 @@
-package dio.me.service;public interface UserService {
+package dio.me.service;
+
+import dio.me.domain.model.User;
+
+public interface UserService extends CrudService<Long, User> {
+
 }
